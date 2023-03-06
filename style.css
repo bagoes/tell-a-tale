@@ -1,0 +1,15 @@
+body   {
+    min-height: 3000px;
+}
+
+.jumbotron {
+    padding-top: 5rem;
+}
+
+#podcast {
+    background-color: #6c757d;
+}
+
+section {
+    padding-top: 3rem;
+}
